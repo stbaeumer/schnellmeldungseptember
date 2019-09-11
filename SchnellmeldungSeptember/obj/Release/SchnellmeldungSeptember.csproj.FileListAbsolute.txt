@@ -1,0 +1,6 @@
+\\fs01\Schulverwaltung\schnellmeldungSeptember\SchnellmeldungSeptember.exe.config
+\\fs01\Schulverwaltung\schnellmeldungSeptember\SchnellmeldungSeptember.exe
+\\fs01\Schulverwaltung\schnellmeldungSeptember\SchnellmeldungSeptember.pdb
+U:\Source\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.csprojResolveAssemblyReference.cache
+U:\Source\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.exe
+U:\Source\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.pdb
