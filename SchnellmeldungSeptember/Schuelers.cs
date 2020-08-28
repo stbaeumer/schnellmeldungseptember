@@ -382,7 +382,7 @@ ORDER BY ausgetreten DESC, klasse, schueler.name_1, schueler.name_2", connection
                     schueler.OrgForm = theRow["OrgForm"] == null ? "" : theRow["OrgForm"].ToString();
                     schueler.Jahrgang = theRow["AktJahrgang"] == null ? "" : theRow["AktJahrgang"].ToString();
                     
-                    if (schueler.Bezugsjahr == 2019 && schueler.Status != "VB" && schueler.Klasse != "Z")
+                    if (schueler.Bezugsjahr == DateTime.Now.Year && schueler.Status != "VB" && schueler.Klasse != "Z")
                     {
                         this.Add(schueler);
                     }                                             

@@ -1,0 +1,220 @@
+Relationsgruppe                              1.Jg   2.Jg   3.Jg   4.Jg  Summe
+BK BS Fachklasse EQ TZ:                       548    583    561          1692
+BK BS Fachklasse EQ TZ (hj. endend):                               112    112
+BK BS Ausbildungsvorbereitung VZ:               7                           7
+BK BS Ausbildungsvorbereitung TZ:              10                          10
+BK BF ber. Kennt. (Vor. HSA) 1-jährig:          0                           0
+BK BF ber. Kennt. (Vor. HSA 10) 1-jährig:      30                          30
+BK BF ber. Kennt. und FHS 2-jährig:           139    110                  249
+BK BF BA-LRecht und FOS 2-jährig:              27     23                   50
+BK BF ber. Kennt. und AHR 3-jährig:            93     80     77           250
+BK FO 12B 1-jährig VZ:                         36                          36
+BK FO Klasse 11 1-jährig TZ:                   44                          44
+BK FO Klasse 12 1-jährig VZ:                   45                          45
+-----------------------------------------------------------------------------
+Summe:                                                                   2525
+Der Schüler Aldur, Ken HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Alten, Jonas HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Blits, Lennard HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Brandes, Lennart HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Bruns, Henning Leon HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Einck, Svenja HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Epping, Ben HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Gießing, Hendrik HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Göktas, Samuel HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Gottsmann, Pascal HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Grams, Joshua HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Honerbom, Jost HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Jinadu, Latif Moses HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Jonas, Lennard HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Kossyk, Jakub Jan HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Kubica, Sebastian HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Maler, Dimitri HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Mehmedovic´, Sedin HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Ogorzelec, Paulina HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Schliack, Can Zafer HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Sel, Christian Leon HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Strunk, Philipp HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Der Schüler Wolf, Colin HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Schüler in Atlantis insgesamt: 2548
+
+Details
+=======
+
+BK BS Fachklasse EQ TZ
+ 1. AGG18A              13
+ 2. AGG18B              19
+ 3. AGG19A              20
+ 4. AGG19B              22
+ 5. AGG20A              20
+ 6. AGG20B              18
+ 7. AGS18A               5
+ 8. AGS19A              13
+ 9. AGS20A               7
+10. AL18A               34
+11. AL18B               18
+12. AL18C               20
+13. AL19A               26
+14. AL19B               23
+15. AL19C                0
+16. AL20A               19
+17. AL20B               16
+18. BBS18A              12
+19. BBS19A               9
+20. BBS20A               1
+21. BBZ18A              25
+22. BBZ19A              22
+23. BBZ20A              25
+24. BD20A               22
+25. BF18A               18
+26. BF19A               15
+27. BF20A               13
+28. BM18A               13
+29. BM19A               26
+30. BM20A               30
+31. BZ18A               29
+32. BZ19A               34
+33. BZ20A               29
+34. EE18A               24
+35. EE19A               28
+36. EE20A               24
+37. HT18A               31
+38. HT19A               31
+39. HT20A               29
+40. MA18A               23
+41. MA19A               24
+42. MA20A               19
+43. MF18A               19
+44. MF18B               17
+45. MF19A               27
+46. MF20A               15
+47. MK18A               19
+48. MK18B               14
+49. MK19A               25
+50. MK19B               19
+51. MK20A               15
+52. MK20B               21
+53. MM18A               17
+54. MM18B               16
+55. MM19A               15
+56. MM19B               13
+57. MM20A               16
+58. MM20B               15
+59. NBK18A              16
+60. NBK19A              18
+61. NBK20A              15
+62. NF18A               19
+63. NF19A                6
+64. NF20A                8
+65. WA18A               22
+66. WA19A               19
+67. WA19B               18
+68. WA20A               26
+69. WB18A               29
+70. WB19A               27
+71. WB20A               31
+72. WE18A               22
+73. WE19A               24
+74. WE19B               16
+75. WE20A               20
+76. WE20B               22
+77. WG18A               15
+78. WG19A               24
+79. WG20A               20
+80. WI18A               24
+81. WI19A               24
+82. WI19B               16
+83. WI20A               20
+84. WI20B                9
+85. WS18A               16
+86. WS19A               13
+87. WS20A               21
+--------------------------
+               Summe: 1692
+
+BK BS Fachklasse EQ TZ (hj. endend)
+ 1. EE17A               22
+ 2. MA17A               18
+ 3. MF17A               21
+ 4. MK17A               31
+ 5. MM17A               20
+--------------------------
+               Summe:  112
+
+BK BS Ausbildungsvorbereitung VZ
+ 1. IFK20A               7
+--------------------------
+               Summe:    7
+
+BK BS Ausbildungsvorbereitung TZ
+ 1. AVE20A               2
+ 2. AVT20A               8
+--------------------------
+               Summe:   10
+
+BK BF ber. Kennt. (Vor. HSA) 1-jährig
+--------------------------
+               Summe:    0
+
+BK BF ber. Kennt. (Vor. HSA 10) 1-jährig
+ 1. BT20A               17
+ 2. BW20A               13
+--------------------------
+               Summe:   30
+
+BK BF ber. Kennt. und FHS 2-jährig
+ 1. HBG19A              26
+ 2. HBG19B              25
+ 3. HBG20A              20
+ 4. HBG20B              22
+ 5. HBT20A              20
+ 6. HBW19A              24
+ 7. HBW19B              17
+ 8. HBW19C              18
+ 9. HBW20A              25
+10. HBW20B              26
+11. HBW20C              26
+--------------------------
+               Summe:  249
+
+BK BF BA-LRecht und FOS 2-jährig
+ 1. BS19A               23
+ 2. BS20A               27
+--------------------------
+               Summe:   50
+
+BK BF ber. Kennt. und AHR 3-jährig
+ 1. GG18A               23
+ 2. GG19A               29
+ 3. GG20A               20
+ 4. GG20B               22
+ 5. GT18A               17
+ 6. GT19A               14
+ 7. GT20A               26
+ 8. GW18A               19
+ 9. GW18B               18
+10. GW19A               19
+11. GW19B               18
+12. GW20A               25
+--------------------------
+               Summe:  250
+
+BK FO 12B 1-jährig VZ
+ 1. FM20A               16
+ 2. FM20B               20
+--------------------------
+               Summe:   36
+
+BK FO Klasse 11 1-jährig TZ
+ 1. FS20A               23
+ 2. FS20B               21
+--------------------------
+               Summe:   44
+
+BK FO Klasse 12 1-jährig VZ
+ 1. FS19A               24
+ 2. FS19B               21
+--------------------------
+               Summe:   45
+
+bm | 28.08.2020 13:37:20

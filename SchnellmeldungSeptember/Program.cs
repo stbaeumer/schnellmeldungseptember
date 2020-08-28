@@ -24,14 +24,18 @@ namespace SchnellmeldungSeptember
             Relationsgruppen relationsgruppen = new Relationsgruppen();
 
             foreach (var klasse in klasses)
-            {                
+            {
+                if (klasse.NameAtlantis == "HBT19A")
+                {
+                    string a = "";
+                }
                 foreach (var r in relationsgruppen)
                 {
                     if (r.Gliederungen.Contains(klasse.Gliederung))
                     {
                         if ((r.Fachklassenschlüssel.Count == 0 || r.Fachklassenschlüssel.Contains(klasse.Fachklassenschlüssel)))
                         {
-                            if (r.Jahrgänge.Contains(klasse.Jahrgang) && klasse.NameAtlantis != "Z")
+                            if (r.Jahrgänge.Contains(klasse.Jahrgang) && klasse.NameAtlantis != "Z" && klasse.NameAtlantis != "Abgang")
                             {
                                 klasse.Relationsgruppe = r.BeschreibungSchulministerium;
                             }

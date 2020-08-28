@@ -52,7 +52,7 @@ WHERE schul_jahr = '" + AktSjAtlantis + "' ORDER BY DBA.klasse.klasse ASC", conn
                             if (klasseAtlantis.Anlage == "")
 
                                 klasseAtlantis.Gliederungsplan = theRow["s_gliederungsplan_kl"] == null ? "" : theRow["s_gliederungsplan_kl"].ToString();
-                            if (klasseAtlantis.Gliederungsplan != "" && klasseAtlantis.NameAtlantis != "Z")
+                            if (klasseAtlantis.Gliederungsplan != "" && klasseAtlantis.NameAtlantis != "Z" && klasseAtlantis.NameAtlantis != "Abgang")
                             {
                                 string fk = theRow["s_gliederungsplan_kl"].ToString().Replace(theRow["s_uorg"].ToString(), "");
                                 fk = fk.Length > 5 ? fk.Substring(0, 5) : fk;
