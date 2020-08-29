@@ -5,37 +5,14 @@ BK BS Ausbildungsvorbereitung VZ:               7                           7
 BK BS Ausbildungsvorbereitung TZ:              10                          10
 BK BF ber. Kennt. (Vor. HSA) 1-jährig:          0                           0
 BK BF ber. Kennt. (Vor. HSA 10) 1-jährig:      30                          30
-BK BF ber. Kennt. und FHS 2-jährig:           139    110                  249
+BK BF ber. Kennt. und FHS 2-jährig:           139    133                  272
 BK BF BA-LRecht und FOS 2-jährig:              27     23                   50
 BK BF ber. Kennt. und AHR 3-jährig:            93     80     77           250
 BK FO 12B 1-jährig VZ:                         36                          36
 BK FO Klasse 11 1-jährig TZ:                   44                          44
 BK FO Klasse 12 1-jährig VZ:                   45                          45
 -----------------------------------------------------------------------------
-Summe:                                                                   2525
-Der Schüler Aldur, Ken HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Alten, Jonas HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Blits, Lennard HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Brandes, Lennart HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Bruns, Henning Leon HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Einck, Svenja HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Epping, Ben HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Gießing, Hendrik HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Göktas, Samuel HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Gottsmann, Pascal HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Grams, Joshua HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Honerbom, Jost HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Jinadu, Latif Moses HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Jonas, Lennard HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Kossyk, Jakub Jan HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Kubica, Sebastian HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Maler, Dimitri HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Mehmedovic´, Sedin HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Ogorzelec, Paulina HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Schliack, Can Zafer HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Sel, Christian Leon HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Strunk, Philipp HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
-Der Schüler Wolf, Colin HBT19A ist nicht in der Schnellmeldung erfasst. Prüfen!
+Summe:                                                                   2548
 Schüler in Atlantis insgesamt: 2548
 
 Details
@@ -167,15 +144,16 @@ BK BF ber. Kennt. und FHS 2-jährig
  2. HBG19B              25
  3. HBG20A              20
  4. HBG20B              22
- 5. HBT20A              20
- 6. HBW19A              24
- 7. HBW19B              17
- 8. HBW19C              18
- 9. HBW20A              25
-10. HBW20B              26
-11. HBW20C              26
+ 5. HBT19A              23
+ 6. HBT20A              20
+ 7. HBW19A              24
+ 8. HBW19B              17
+ 9. HBW19C              18
+10. HBW20A              25
+11. HBW20B              26
+12. HBW20C              26
 --------------------------
-               Summe:  249
+               Summe:  272
 
 BK BF BA-LRecht und FOS 2-jährig
  1. BS19A               23
@@ -217,4 +195,4 @@ BK FO Klasse 12 1-jährig VZ
 --------------------------
                Summe:   45
 
-bm | 28.08.2020 13:37:20
+bm | 28.08.2020 14:15:09
