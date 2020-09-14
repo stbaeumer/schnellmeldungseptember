@@ -1,0 +1,205 @@
+Relationsgruppe                            1.Jg  2.Jg  3.Jg  4.Jg Summe Relation StellenBS StellenVZ
+BK BS Fachklasse EQ TZ:                     559   592   562        1713    41,64   41,1383
+BK BS Fachklasse EQ TZ (hj. endend):                          112   112    83,28    1,3449
+BK BS Ausbildungsvorbereitung VZ:             8                       8    16,18    0,4944
+BK BS Ausbildungsvorbereitung TZ:            11                      11    41,64    0,2642
+BK BF ber. Kennt. (Vor. HSA) 1-jährig:        0                       0    16,18              0,0000
+BK BF ber. Kennt. (Vor. HSA 10) 1-jährig:    30                      30    16,18              1,8541
+BK BF ber. Kennt. und FHS 2-jährig:         141   133               274    16,18             16,9345
+BK BF BA-LRecht und FOS 2-jährig:            27    23                50    14,34              3,4868
+BK BF ber. Kennt. und AHR 3-jährig:          94    80    77         251    14,34             17,5035
+BK FO 12B 1-jährig VZ:                       36                      36    14,34              2,5105
+BK FO Klasse 11 1-jährig TZ:                 45                      45    41,64              1,0807
+BK FO Klasse 12 1-jährig VZ:                 45                      45    14,34              3,1381
+----------------------------------------------------------------------------------------------------
+Summe:                                                             2575            43,2418   46,5081
+
+   Leitungszeit: 55,92   (= 9 + 50 * 0,7 + (43,2418+46,5081) - 50 * 0,3)  Verordnung zur Ausführung des § 93 Abs. 2 Schulgesetz (VO zu § 93 Abs. 2 SchulG) vom 18.03.2005
+   Anrechnungen: 77,43   (= 43,2418 * 0,5 + 46,5081 * 1,2)
+
+   Schüler in Atlantis insgesamt: 2575
+
+Details
+=======
+
+BK BS Fachklasse EQ TZ
+ 1. AGG18A              13
+ 2. AGG18B              19
+ 3. AGG19A              21
+ 4. AGG19B              21
+ 5. AGG20A              21
+ 6. AGG20B              18
+ 7. AGS18A               5
+ 8. AGS19A              14
+ 9. AGS20A               6
+10. AL18A               33
+11. AL18B               19
+12. AL18C               20
+13. AL19A               26
+14. AL19B               24
+15. AL19C                0
+16. AL20A               19
+17. AL20B               16
+18. BBS18A              12
+19. BBS19A               9
+20. BBS20A               1
+21. BBZ18A              25
+22. BBZ19A              24
+23. BBZ20A              25
+24. BD20A               25
+25. BF18A               18
+26. BF19A               16
+27. BF20A               15
+28. BM18A               14
+29. BM19A               30
+30. BM20A               29
+31. BZ18A               16
+32. BZ18B               13
+33. BZ19A               17
+34. BZ19B               17
+35. BZ20A               13
+36. BZ20B               16
+37. EE18A               24
+38. EE19A               28
+39. EE20A               24
+40. HT18A               31
+41. HT19A               30
+42. HT20A               29
+43. MA18A               23
+44. MA19A               24
+45. MA20A               19
+46. MF18A               19
+47. MF18B               17
+48. MF19A               27
+49. MF20A               15
+50. MK18A               19
+51. MK18B               14
+52. MK19A               25
+53. MK19B               19
+54. MK20A               15
+55. MK20B               21
+56. MM18A               17
+57. MM18B               16
+58. MM19A               15
+59. MM19B               13
+60. MM20A               17
+61. MM20B               15
+62. NBK18A              16
+63. NBK19A              18
+64. NBK20A              16
+65. NF18A               19
+66. NF19A                6
+67. NF20A                9
+68. WA18A               22
+69. WA19A               18
+70. WA19B               19
+71. WA20A               27
+72. WB18A               29
+73. WB19A               27
+74. WB20A               33
+75. WE18A               22
+76. WE19A               24
+77. WE19B               16
+78. WE20A               20
+79. WE20B               22
+80. WG18A               15
+81. WG19A               24
+82. WG20A               21
+83. WI18A               24
+84. WI19A               24
+85. WI19B               16
+86. WI20A               20
+87. WI20B               10
+88. WS18A               16
+89. WS19A               13
+90. WS20A               21
+--------------------------
+               Summe: 1713
+
+BK BS Fachklasse EQ TZ (hj. endend)
+ 1. EE17A               22
+ 2. MA17A               18
+ 3. MF17A               21
+ 4. MK17A               31
+ 5. MM17A               20
+--------------------------
+               Summe:  112
+
+BK BS Ausbildungsvorbereitung VZ
+ 1. IFK20A               8
+--------------------------
+               Summe:    8
+
+BK BS Ausbildungsvorbereitung TZ
+ 1. AVE20A               2
+ 2. AVT20A               9
+--------------------------
+               Summe:   11
+
+BK BF ber. Kennt. (Vor. HSA) 1-jährig
+--------------------------
+               Summe:    0
+
+BK BF ber. Kennt. (Vor. HSA 10) 1-jährig
+ 1. BT20A               17
+ 2. BW20A               13
+--------------------------
+               Summe:   30
+
+BK BF ber. Kennt. und FHS 2-jährig
+ 1. HBG19A              26
+ 2. HBG19B              25
+ 3. HBG20A              21
+ 4. HBG20B              22
+ 5. HBT19A              23
+ 6. HBT20A              20
+ 7. HBW19A              24
+ 8. HBW19B              17
+ 9. HBW19C              18
+10. HBW20A              26
+11. HBW20B              26
+12. HBW20C              26
+--------------------------
+               Summe:  274
+
+BK BF BA-LRecht und FOS 2-jährig
+ 1. BS19A               23
+ 2. BS20A               27
+--------------------------
+               Summe:   50
+
+BK BF ber. Kennt. und AHR 3-jährig
+ 1. GG18A               23
+ 2. GG19A               29
+ 3. GG20A               21
+ 4. GG20B               22
+ 5. GT18A               17
+ 6. GT19A               14
+ 7. GT20A               26
+ 8. GW18A               19
+ 9. GW18B               18
+10. GW19A               19
+11. GW19B               18
+12. GW20A               25
+--------------------------
+               Summe:  251
+
+BK FO 12B 1-jährig VZ
+ 1. FM20A               16
+ 2. FM20B               20
+--------------------------
+               Summe:   36
+
+BK FO Klasse 11 1-jährig TZ
+ 1. FS20A               23
+ 2. FS20B               22
+--------------------------
+               Summe:   45
+
+BK FO Klasse 12 1-jährig VZ
+ 1. FS19A               24
+ 2. FS19B               21
+--------------------------
+               Summe:   45
+
+bm | 14.09.2020 16:45:41

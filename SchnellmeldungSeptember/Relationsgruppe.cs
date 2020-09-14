@@ -10,9 +10,11 @@ namespace SchnellmeldungSeptember
         public List<string> Jahrgänge { get; private set; }
         public List<string> Fachklassenschlüssel { get; private set; }
         public List<string> Gliederungen { get; private set; }
+        public double Relation { get; private set; }
 
-        public Relationsgruppe(string BeschreibungSchulministerium, List<string> Gliederungen, List<string> Jahrgänge, List<int> Fachklassenschlüssel)
+        public Relationsgruppe(string BeschreibungSchulministerium, List<string> Gliederungen, List<string> Jahrgänge, List<int> Fachklassenschlüssel, double relation)
         {
+            this.Relation = relation;
             this.Fachklassenschlüssel = new List<string>();
             this.BeschreibungSchulministerium = BeschreibungSchulministerium;
             this.Gliederungen = Gliederungen;
