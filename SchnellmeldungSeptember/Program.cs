@@ -125,7 +125,7 @@ namespace SchnellmeldungSeptember
 
             datei.Add("Summe:".PadRight(67) + summe + "         " + stellenBs.ToString("0.0000").PadLeft(10) + stellenVz.ToString("0.0000").PadLeft(10));
             datei.Add("");
-            datei.Add("   Leitungszeit: " + (9 + 50 * 0.7 + ((stellenBs+stellenVz) - 50) * 0.3).ToString("0.00")  + "   (= 9 + 50 * 0,7 + (" + stellenBs.ToString("0.0000") + "+" + stellenVz.ToString("0.0000") + ") - 50 * 0,3)  Verordnung zur Ausführung des § 93 Abs. 2 Schulgesetz (VO zu § 93 Abs. 2 SchulG) vom 18.03.2005");
+            datei.Add("   Leitungszeit: " + (9 + 50 * 0.7 + ((stellenBs+stellenVz) - 50) * 0.3).ToString("0.00")  + "   (= 9 + 50 * 0,7 + (" + stellenBs.ToString("0.0000") + "+" + stellenVz.ToString("0.0000") + " - 50) * 0,3)  Verordnung zur Ausführung des § 93 Abs. 2 Schulgesetz (VO zu § 93 Abs. 2 SchulG) vom 18.03.2005");
             datei.Add("   Anrechnungen: " + (stellenBs * 0.5 + stellenVz * 1.2).ToString("00.00") + "   (= " + stellenBs.ToString("0.0000") + " * 0,5 + " + stellenVz.ToString("0.0000") + " * 1,2)");
             datei.Add("");
             Console.WriteLine("Summe: " + summe);
