@@ -4,3 +4,7 @@
 U:\Source\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.csprojResolveAssemblyReference.cache
 U:\Source\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.exe
 U:\Source\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.pdb
+C:\Users\bm\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.csproj.AssemblyReference.cache
+C:\Users\bm\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.csproj.CoreCompileInputs.cache
+C:\Users\bm\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.exe
+C:\Users\bm\Repos\schnellmeldungseptember\SchnellmeldungSeptember\obj\Release\SchnellmeldungSeptember.pdb
