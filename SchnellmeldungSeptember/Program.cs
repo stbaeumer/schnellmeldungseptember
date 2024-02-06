@@ -9,7 +9,7 @@ namespace SchnellmeldungSeptember
 {
     class Program
     {
-        public const string ConnectionStringAtlantis = @"Dsn=Atlantis9;uid=DBA";
+        public const string ConnectionStringAtlantis = @"Dsn=Atlantis17u;uid=DBA";
 
         static void Main(string[] args)
         {
@@ -58,7 +58,7 @@ namespace SchnellmeldungSeptember
             Console.WriteLine("");
             List<string> datei = new List<string>
                 {
-                    "Relationsgruppe".PadRight(43) + "1.Jg".PadRight(6) + "2.Jg".PadRight(6) + "3.Jg".PadRight(6) + "4.Jg".PadRight(5) + "Summe Relation StellenBS StellenVZ"
+                    "^  Relationsgruppe  ^  ".PadRight(43) + "1.Jg  ^".PadRight(6) + "2.Jg  ^".PadRight(6) + "3.Jg  ^".PadRight(6) + "4.Jg  ^".PadRight(5) + "Summe  ^  Relation  ^  StellenBS  ^  StellenVZ  ^"
                 };
             Console.WriteLine("Relationsgruppe".PadRight(43) + "1.Jg".PadRight(6) + "2.Jg".PadRight(6) + "3.Jg".PadRight(6) + "4.Jg".PadRight(6) + "Summe Relation StellenBS StellenVZ");
 
@@ -69,7 +69,7 @@ namespace SchnellmeldungSeptember
 
             foreach (var relationsgruppe in relationsgruppen)
             {
-                string zeile = (relationsgruppe.BeschreibungSchulministerium + ":").PadRight(41);
+                string zeile = "|" + (relationsgruppe.BeschreibungSchulministerium + ":").PadRight(41) + "  |  ";
 
                 var kl = (from k in klasses where k.Relationsgruppe == relationsgruppe.BeschreibungSchulministerium select k).ToList();
 
@@ -91,29 +91,29 @@ namespace SchnellmeldungSeptember
                         summe += x;
                         z = x.ToString();
                     }
-                    zeile = zeile + z.PadLeft(6);
+                    zeile = zeile + z.PadLeft(6) + "|";
                 }
 
                 int t = (from s in schuelers
                          where (from k in kl where k.NameAtlantis == s.Klasse select k).Any()
                          select s).Count();
 
-                zeile = zeile + t.ToString().PadLeft(6);
+                zeile = zeile + t.ToString().PadLeft(6) + "|";
 
                 // Relation:
 
-                zeile = zeile + relationsgruppe.Relation.ToString().PadLeft(9);
+                zeile = zeile + relationsgruppe.Relation.ToString().PadLeft(9) + "|";
 
                 // Stellen:
                 
                 if (relationsgruppe.BeschreibungSchulministerium.StartsWith("BK BS"))
                 {
-                    zeile = zeile + (t / relationsgruppe.Relation).ToString("0.0000").PadLeft(10);
+                    zeile = zeile + (t / relationsgruppe.Relation).ToString("0.0000").PadLeft(10) + "|             |";
                     stellenBs = stellenBs + (t / relationsgruppe.Relation);
                 }
                 else
                 {
-                    zeile = zeile + (t / relationsgruppe.Relation).ToString("0.0000").PadLeft(20);
+                    zeile = zeile + "          |" + (t / relationsgruppe.Relation).ToString("0.0000").PadLeft(10) + "|";
                     stellenVz = stellenVz + (t / relationsgruppe.Relation);
                 }
 
@@ -121,9 +121,9 @@ namespace SchnellmeldungSeptember
                 Console.WriteLine(zeile);
             }
 
-            datei.Add("----------------------------------------------------------------------------------------------------");
+            //datei.Add("----------------------------------------------------------------------------------------------------");
 
-            datei.Add("Summe:".PadRight(67) + summe + "         " + stellenBs.ToString("0.0000").PadLeft(10) + stellenVz.ToString("0.0000").PadLeft(10));
+            datei.Add("|Summe:".PadRight(67) + summe + "|||||||    " + stellenBs.ToString("0.0000").PadLeft(10) + "|" + stellenVz.ToString("0.0000").PadLeft(10) + "|");
             datei.Add("");
             datei.Add("   Leitungszeit: " + (9 + 50 * 0.7 + ((stellenBs+stellenVz) - 50) * 0.3).ToString("0.00")  + "   (= 9 + 50 * 0,7 + (" + stellenBs.ToString("0.0000") + "+" + stellenVz.ToString("0.0000") + " - 50) * 0,3)  Verordnung zur Ausführung des § 93 Abs. 2 Schulgesetz (VO zu § 93 Abs. 2 SchulG) vom 18.03.2005");
             datei.Add("   Anrechnungen: " + (stellenBs * 0.5 + stellenVz * 1.2).ToString("00.00") + "   (= " + stellenBs.ToString("0.0000") + " * 0,5 + " + stellenVz.ToString("0.0000") + " * 1,2)");
